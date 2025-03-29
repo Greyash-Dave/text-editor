@@ -3,7 +3,7 @@
 
 This is a practice project implementing a simple text editor in Rust, following the excellent Hecto tutorial by Philipp Flenker: [https://www.flenker.blog/hecto/](https://www.flenker.blog/hecto/).
 
-<img src="https://raw.githubusercontent.com/Greyash-Dave/Greyash-Dave/main/images/text-editor/1.PNG" alt="Watch the video">
+<img src="https://raw.githubusercontent.com/Greyash-Dave/Greyash-Dave/main/images/text-editor/1.jpg" alt="Watch the video">
 
 ## Features
 
